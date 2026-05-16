@@ -1,16 +1,22 @@
-# devshub_week2
+# DevelopersHub Internship - Week 2 Task
 
-A new Flutter project.
+## 📱 Project Overview
+This project is built for Week 2 of the DevelopersHub Corporation Flutter Internship. It demonstrates basic state management and persistent data storage using `SharedPreferences`.
 
-## Getting Started
+## ✨ Features
+* **Persistent Counter:** A simple counter that saves its state locally.
+* **To-Do List Management:** * Add new tasks seamlessly.
+  * Delete completed or unwanted tasks.
+  * Empty state UI handling.
+  * SnackBar notifications for user feedback.
+* **Local Storage:** All tasks are saved using `SharedPreferences`, ensuring data is not lost when the app restarts.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+* Framework: Flutter
+* Language: Dart
+* Package: `shared_preferences`
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Clone the repository: `git clone https://github.com/MianAsad1094/devshub_week2_task.git`
+2. Install packages: `flutter pub get`
+3. Run the app: `flutter run`
